@@ -1,0 +1,17 @@
+/*
+ Theme Name:   Brioche&Cannelle - Gridbox Child
+ Description:  Brioche&Cannelle est un thème enfant de Gridbox. Les couleurs des en-tête, pied de page et boutons on été personnalisé, pour corréspondre au branding "Brioche et Cannelle"
+ Author:       Miruna
+ Template:     gridbox
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ Tags: custom-header, custom-footer, custom-buttons
+*/
+
+:root {
+    --branding-color: #674c45;
+    --button-color: var(--branding-color);
+    --button-hover-color: #c7a196;
+    --header-background-color: var(--branding-color);
+    --footer-background-color: var(--branding-color);
+}
